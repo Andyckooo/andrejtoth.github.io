@@ -1,3 +1,3 @@
-const p = document.querySelector('.shit-happens');
+const div = document.querySelector('.shit-happens');
 // Change the text content of the <p> element
-p.textContent = 'coool';
+div.textContent = 'coool';
